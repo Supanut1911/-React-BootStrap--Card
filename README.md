@@ -1,11 +1,20 @@
-# Getting Started with Create React App
+# React App Codebase - BootStrap - Card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Install
+    npm i
 
-## Available Scripts
+    npm start
 
-In the project directory, you can run:
+### `Topic Knowledge`
+- React functional
+- Bootstrap-React
+- Bootstrap - card 
+- CSS style
+- pass value between component with props
+- animate css & hover transition, transform style
 
-### `npm start`
+### Boostrap - Card
+    CSS Gradient: https://cssgradient.io/
+    animate CSS: https://animate.style/
 
-
+![alt text](card.png)
